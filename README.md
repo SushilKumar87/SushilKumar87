@@ -1,4 +1,4 @@
-![logo](WhatsApp Image 2024-05-21 at 14.41.14_141a0c60.jpg)
+![logo](github_PNG65.png)
 <h1 align="center">Hi 👋, I'm Sushil Kumar Gautam</h1>
 <h3 align="center">A passionate Pre Final Year Engineering Student from India</h3>
 

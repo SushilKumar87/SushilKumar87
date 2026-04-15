@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilkumar87&label=Profile%20views&color=0e75b6&style=flat" alt="sushilkumar87" /> </p>
 
-- 🌱 I’m currently learning **Frontend**
+
 
 - 📫 How to reach me **sk9246696@gmail.com**
 
